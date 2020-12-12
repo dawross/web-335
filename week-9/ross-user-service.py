@@ -13,8 +13,10 @@ from pymongo import MongoClient
 import pprint
 
 import datetime
+
 #connect to Mongo
 client = MongoClient('localhost', 27017)
+
 #use db web335
 db = client.web335
 
