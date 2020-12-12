@@ -2,7 +2,7 @@
 # Title:  ross-user-update.py
 # Author: Dan Ross
 # Date:   11 December 2020
-# Description: Exercise 9.2 – Querying and Creating Documents
+# Description: Exercise 9.3 - Updating and Deleting Documents
 # ===========================================
 
 # imports
