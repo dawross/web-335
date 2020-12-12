@@ -35,5 +35,5 @@ user_id = db.users.insert_one(user).inserted_id
 #Output auto-generated user id
 print(user_id)
 
-#query the users collection to fine newly added user and print results
+#query the users collection to find newly added user and print results
 pprint.pprint(db.users.find_one({"employee_id": "1234567"}))
