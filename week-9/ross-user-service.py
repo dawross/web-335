@@ -6,7 +6,6 @@
 # ===========================================
 
 # imports
-import pymongo
 
 from pymongo import MongoClient
 
